@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 	"strconv"
-	"test/netHttp/models"
-	"test/netHttp/storage"
+	"netHttp/models"
+	"netHttp/storage"
 
 	"github.com/google/uuid"
 )
