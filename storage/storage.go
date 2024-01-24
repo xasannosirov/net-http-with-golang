@@ -2,7 +2,7 @@ package storage
 
 import (
 	"database/sql"
-	"test/netHttp/models"
+	"netHttp/models"
 
 	_ "github.com/lib/pq"
 )
